@@ -1,5 +1,7 @@
 # Quantum Simulation of Preferred Tautomeric State Prediction
-Repository for [arXiv:2210.02977](https://arxiv.org/abs/2210.02977)
+Repository for 
+
+[Shee, Y., Yeh, TL., Hsiao, JY. <em>et al.</em> Quantum simulation of preferred tautomeric state prediction. <em>npj Quantum Inf</em> **9**, 102 (2023).](https://doi.org/10.1038/s41534-023-00767-9)
 
 Optimized structures are provided in txt file.
 
